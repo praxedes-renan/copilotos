@@ -7,7 +7,7 @@ O modo Ask é para fazer perguntas e entender coisas, sem alterar seu código. V
 
 O Copiloto lê o contexto do projeto (arquivos abertos, seleção, etc.) e responde como um “mentor técnico”, explicando o que está acontecendo e por quê. Ele não modifica nada — só analisa e explica.
 
-📄 Prompt: prompts/prompt-ask.md
+📄 Prompt: [prompts/ask.md](/prompts/Ask.md)
 
 
 # 🧭 Plan
@@ -21,14 +21,14 @@ Ele:
   
 **Isso é muito útil para mudanças grandes, novas features ou quando você quer validar a abordagem antes de mexer no código.**
 
-📄 Prompt: prompts/prompt-plan.md
+📄 Prompt: [prompts/plan.md](/prompts/Plan.md)
 
 # 🤖 Agent
 O Agent é o modo mais “autônomo”. Ele pode navegar pelo projeto, criar arquivos, modificar múltiplos pontos e manter contexto entre passos, como se fosse um dev júnior trabalhando com você.
 
 Você dá um objetivo (ex.: “implemente login com JWT”) e ele decide o que precisa ser feito em vários arquivos para chegar lá.
 
-📄 Prompt: prompts/prompt-agent.md
+📄 Prompt: [prompts/agent.md](/prompts/Agent.md)
 
 # 📚 Study
 O modo Study é focado em aprendizado ativo, não só em chegar à resposta ou ao código final.
@@ -41,7 +41,7 @@ faz perguntas reflexivas
 avança em progressão gradual de dificuldade
 Funciona quase como um tutor particular.
 
-📄 Prompt: prompts/prompt-study.md
+📄 Prompt: [prompts/study.md](/prompts/Study.md)
 
 🧠 Resumo mental rápido
 * Ask → entender
